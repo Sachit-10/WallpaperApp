@@ -27,7 +27,7 @@ class searchview : AppCompatActivity() , download_adapter.onclickimagelistener{
         setSupportActionBar(binding?.searchToolbar)
         supportActionBar?.setDisplayHomeAsUpEnabled(true)
         binding?.searchToolbar?.setNavigationOnClickListener(){
-            val intent = Intent(this,Home_Fragment::class.java)
+            val intent = Intent(this,MainActivity::class.java)
             startActivity(intent)
         }
 

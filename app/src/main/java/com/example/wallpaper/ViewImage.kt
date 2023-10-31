@@ -37,7 +37,7 @@ class ViewImage : AppCompatActivity() {
         setSupportActionBar(binding?.viewToolbar)
         supportActionBar?.setDisplayHomeAsUpEnabled(true)
         binding?.viewToolbar?.setNavigationOnClickListener(){
-            val intent = Intent(this@ViewImage, Home_Fragment::class.java)
+            val intent = Intent(this@ViewImage, MainActivity::class.java)
             startActivity(intent)
         }
 
