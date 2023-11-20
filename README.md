@@ -33,7 +33,8 @@ This is simple Wallpaper App  built with kotlin using unslpash API.
 ![image](https://github.com/Sachit-10/WallpaperApp/assets/88854565/f65ba998-524c-4be3-b271-32feb4a5c8eb)
 ![image](https://github.com/Sachit-10/WallpaperApp/assets/88854565/d4e3e11c-3f7c-487f-a107-8d78b22710b2)
 ![image](https://github.com/Sachit-10/WallpaperApp/assets/88854565/6da346b1-223f-4750-bee7-0164610b866b)
-![image](https://github.com/Sachit-10/WallpaperApp/assets/88854565/8dd4c526-f03f-4254-b389-82e035dc4eea)
+![image](https://github.com/Sachit-10/WallpaperApp/assets/88854565/359612e8-113e-468e-8777-725f48e83108)
+
 
 
 
